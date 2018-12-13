@@ -1,0 +1,39 @@
+.title{
+   background-color:#cdf7f1;
+    padding-left: 80px;
+    color: black;
+    max-height:109px;
+    font-family: 'Amatic SC', cursive;
+    }
+.image{  
+    
+    width: 75%;
+    padding-left:78px;
+    height: 350px;
+    
+    
+            }
+.container1{
+width: 100%;
+display: flex;
+justify-content: center;}  
+
+.down{
+    display: flex;
+    justify-content: flex-start;
+    background-color:yellow;
+    font-family: 'Gamja Flower', cursive;
+    margin: 15px;
+  }
+    
+.container2{
+            display:flex;
+justify-content: flex-start;
+            background-color: purple; 
+}
+.gif{width: 6%;
+height: 500px;
+  width: 50%;
+display:flex;
+justify-content: center;}
+    
